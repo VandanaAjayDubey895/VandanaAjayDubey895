@@ -1,4 +1,4 @@
-# Hi there, I'm Vandana 👋
+# Hi there, I'm Vandana Ajay Dubey 👋
 
 <div align="center">
 
@@ -10,8 +10,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **MBA Student** at **IIM Bodh Gaya**
-- 💼 **Background:** Sales → Transitioning to Product Management
+- 💼 **Background:** Marketing & Sales → Transitioning to Product Management
 - 🛠️ **Learning:** How to build products from scratch, technical skills, and PM frameworks
 - 🌱 **Currently Exploring:** APIs, Databases, Version Control, and Product Thinking
 - 📍 **Based in:** India
@@ -20,7 +19,7 @@
 
 ## 🚀 My PM Journey
 
-I'm a sales professional making the leap into Product Management, building technical skills from the ground up.
+I'm a Marketing & sales professional making the leap into Product Management, building technical skills from the ground up.
 My goal: to be the kind of PM who can talk to engineers in their language AND to customers in theirs.
 
 ---
